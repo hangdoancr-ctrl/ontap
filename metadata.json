@@ -1,0 +1,6 @@
+{
+  "name": "Đường Đua Chinh Phục & Cơn Mưa Phép Thuật - Bảng Cộng 10",
+  "description": "Trò chơi học tập sinh động môn Toán lớp 1: Bảng cộng trong phạm vi 10 với chế độ Đường đua 15 câu hỏi và Cơn mưa phép thuật bắn tốc độ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
